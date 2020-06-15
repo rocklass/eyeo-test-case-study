@@ -10,5 +10,5 @@ Build
 Run
 ---
 ```shell
-java -jar build\libs\eyeo-test-case-study.jar
+java -jar build/libs/eyeo-test-case-study.jar
 ```
